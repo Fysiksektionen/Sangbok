@@ -1,5 +1,8 @@
 # Loggbok
 
+## Uppdateringar 2025:
+- Vanliga årliga uppdateringar
+
 ## Uppdateringar 2023:
 - Vanliga årliga uppdateringar
 - Sigma (Visor vi minns):
